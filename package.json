@@ -1,0 +1,14 @@
+{
+  "name": "heroes-html",
+  "version": "1.0.0",
+  "description": "Practica integradora",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Valeria Sainz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
